@@ -1,6 +1,6 @@
 # GPS-Based Automated Attendance System  
 
-# Thank you for your interest in our application. Please note that it is a complete product containing sensitive internal information, so the source code is not available. However, for demonstration purposes, you can download the application using the link provided below. 
+# Thank you for your interest in our application. Please note that it is a complete product containing sensitive internal information, so the source code is not available. However, for demonstration purposes, you can download the application using the link provided below which functions Exactly the Same. 
 
 ## Overview  
 This project is a mobile application designed for faculty members to manage attendance efficiently using GPS geofencing, facial recognition, and deep learning techniques. It ensures secure, accurate, and convenient attendance tracking by automating the process when faculty members enter or leave the campus.  
