@@ -3,7 +3,7 @@
 ## Overview  
 This project is a mobile application designed for faculty members to manage attendance efficiently using GPS geofencing, facial recognition, and deep learning techniques. It ensures secure, accurate, and convenient attendance tracking by automating the process when faculty members enter or leave the campus.  
 
-![Application Phase Flow Diagram](images/application_phase_flow_diagram.png)  
+![Application Phase Flow Diagram](https://github.com/Siraj-786/GPS-Based-Automated-Attendance-System-/raw/master/Application_Phase_Flow_Diagram.png)
 
 ## Features  
 - **Geofencing**: Determines faculty presence within the campus area using GPS.  
@@ -11,7 +11,7 @@ This project is a mobile application designed for faculty members to manage atte
 - **Real-Time Updates**: Logs session IDs, GPS coordinates, and timestamps for accurate attendance records.  
 - **Enhanced Security**: Verifies faculty identity with a unique ID and location-based confirmation.  
 
-![Geofence Google Map](images/geofence_google_map_image.png)  
+![Geofence Google Map](https://github.com/Siraj-786/GPS-Based-Automated-Attendance-System-/blob/master/Geo_Fence.png)
 
 ## Tools and Technologies  
 - **GPS**: Geofencing for location verification.  
@@ -19,7 +19,8 @@ This project is a mobile application designed for faculty members to manage atte
 - **TensorFlow Lite**: Facilitates on-device inference for facial recognition models.  
 - **EfficientNet-B7**: Selected for its optimal performance in facial recognition tasks.  
 
-![Why FaceNet Statistics](images/why_facenet_statistics.png)  
+![Why FaceNet Statistics](https://github.com/Siraj-786/GPS-Based-Automated-Attendance-System-/blob/master/Why_Facenet.png)
+
 
 ## Development Progress  
 1. Unique ID verification (one-time setup).  
@@ -30,19 +31,18 @@ This project is a mobile application designed for faculty members to manage atte
    - GPS coordinates  
    - Timestamp  
 
-![Android User Phase 1](images/android_user_phase_1.png)  
-![Android User Phase 2](images/android_user_phase_2.png)  
+![Android User Phase 1](https://github.com/Siraj-786/GPS-Based-Automated-Attendance-System-/blob/master/Android_Phase_1.png)  
+![Android User Phase 2](https://github.com/Siraj-786/GPS-Based-Automated-Attendance-System-/blob/master/Android_Phase_2.png)
 
 ## Motivation  
 The project aims to modernize traditional attendance tracking in educational institutions by combining location-based services, facial recognition, and deep learning techniques. This solution reduces administrative burdens and fosters a technologically advanced learning environment.  
 
 ## Application Download  
-[Download the Application](#)  
+[Download the Application and Enjoy , for DEMO Purpose GPS is Bypassed](https://drive.google.com/file/d/13rF60KXJUaNvU1mcCYqCSgCyJeqt3XII/view?usp=sharing)  
 
 ## Team  
-- **Sk Abdul Subhan** - 211FA18096  
-- **Sk Siraj** - 211FA18101  
-- **K.N.S. Sesha Kumar** - 211FA18112  
+- **Sk Siraj** - 
+- **K.N.S. Sesha Kumar** 
 
 ## References  
 - FaceNet by Google  
